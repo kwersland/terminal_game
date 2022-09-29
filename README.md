@@ -1,1 +1,1 @@
-# terminal_game
+# terminal_games
